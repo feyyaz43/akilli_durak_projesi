@@ -1,0 +1,30 @@
+C:\Users\PC\Desktop\deneme_son\deneme_son\bin\deneme_son.dll
+C:\Users\PC\Desktop\deneme_son\deneme_son\bin\deneme_son.pdb
+C:\Users\PC\Desktop\deneme_son\deneme_son\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\deneme_son\deneme_son\obj\Debug\deneme_son.dll
+C:\Users\PC\Desktop\deneme_son\deneme_son\obj\Debug\deneme_son.pdb
+C:\Users\enes A\Desktop\deneme_son\deneme_son\bin\deneme_son.dll
+C:\Users\enes A\Desktop\deneme_son\deneme_son\bin\deneme_son.pdb
+C:\Users\enes A\Desktop\deneme_son\deneme_son\obj\Debug\deneme_son.csprojResolveAssemblyReference.cache
+C:\Users\enes A\Desktop\deneme_son\deneme_son\obj\Debug\deneme_son.dll
+C:\Users\enes A\Desktop\deneme_son\deneme_son\obj\Debug\deneme_son.pdb
+F:\deneme_son_\deneme_son\bin\deneme_son.dll
+F:\deneme_son_\deneme_son\bin\deneme_son.pdb
+F:\deneme_son_\deneme_son\obj\Debug\ResolveAssemblyReference.cache
+F:\deneme_son_\deneme_son\obj\Debug\deneme_son.dll
+F:\deneme_son_\deneme_son\obj\Debug\deneme_son.pdb
+C:\Users\PC\Desktop\deneme_son_\deneme_son\bin\deneme_son.dll
+C:\Users\PC\Desktop\deneme_son_\deneme_son\bin\deneme_son.pdb
+C:\Users\PC\Desktop\deneme_son_\deneme_son\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\deneme_son_\deneme_son\obj\Debug\deneme_son.dll
+C:\Users\PC\Desktop\deneme_son_\deneme_son\obj\Debug\deneme_son.pdb
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\bin\deneme_son.dll
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\bin\deneme_son.pdb
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\obj\Debug\deneme_son.dll
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\obj\Debug\deneme_son.pdb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\bin\deneme_son.dll
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\bin\deneme_son.pdb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\obj\Debug\deneme_son.dll
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje3_akıllı_durak_sistemi\akıllı_durak_sistemi_kaynak_kod\denemeenson\deneme_son\obj\Debug\deneme_son.pdb
